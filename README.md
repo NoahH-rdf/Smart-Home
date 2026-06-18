@@ -67,3 +67,7 @@ Gemeinsam
 •	Tests und Fehlerbehebung
 •	Dokumentation
 •	Abschlusspräsentation
+
+
+Noah: Aufgabe Person A 
+Julius: Aufgabe Person B 
