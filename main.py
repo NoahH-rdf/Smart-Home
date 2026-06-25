@@ -1,1 +1,5 @@
-# das hier wird die main datei sein, in der die anderen module importiert und ausgeführt werden
+from dashboard.dashboard import SmartHomeDashboard
+
+if __name__ == "__main__":
+    app = SmartHomeDashboard()
+    app.run()
